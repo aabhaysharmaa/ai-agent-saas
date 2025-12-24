@@ -3,8 +3,6 @@
 
 A full-stack, production-grade AI Agent Platform that enables users to host real-time AI meetings, generate summaries & transcripts, manage recordings, and collaborate with custom AI agents — all inside a world-class SaaS product optimized for scale.
 
-> **Built with enterprise standards, optimized for $200K-level engineering quality.**
-
 ---
 
 ## 🚀 Features
@@ -102,6 +100,5 @@ Users can:
 - Search transcripts  
 
 ---
-
-## 📁 Project Structure (200k-level architecture)
+)
 
